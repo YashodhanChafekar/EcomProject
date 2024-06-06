@@ -154,11 +154,11 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
 
 MANAGERS = (
-    ('rohitdjadhav789@gmail.com', 'Rohit Jadhav'),
+    ('yashodhan.chafekar@gmail.com', 'Yashodhan Chafekar'),
 )
 
 ADMINS = (
-    ('rohitdjadhav789@gmail.com', 'Rohit Jadhav'),
+    ('yashodhan.chafekar@gmail.com', 'Yashodhan Chafekar'),
 )
 
 # Static File Settings
